@@ -68,8 +68,8 @@ body {
 .logo {
  .logo img,
 .logo {
-  max-width: 150px;
-  width: 150px;
+ max-width: 110px;
+width: 110px;
   height: auto;
   display: block;
   margin: 0 auto 20px auto;
