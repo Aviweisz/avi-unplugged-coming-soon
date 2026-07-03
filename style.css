@@ -66,13 +66,14 @@ body {
 }
 
 .logo {
-  width: 155px;
-  height: 155px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 3px solid rgba(255, 138, 0, 0.7);
-  box-shadow: 0 0 45px rgba(255, 138, 0, 0.32);
-  margin-bottom: 24px;
+ .logo img,
+.logo {
+  max-width: 150px;
+  width: 150px;
+  height: auto;
+  display: block;
+  margin: 0 auto 20px auto;
+  object-fit: contain;
 }
 
 .eyebrow {
